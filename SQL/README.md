@@ -1,0 +1,1 @@
+#En esta carpeta subiré los ejercicios prácticos y proyectos de SQL
